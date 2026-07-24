@@ -1,0 +1,73 @@
+[
+  {
+    "id": "1",
+    "title": "Navigating the New Data Protection Bill in India",
+    "excerpt": "A comprehensive analysis of the Digital Personal Data Protection Act, 2023 and what it means for corporate compliance and liability.",
+    "category": "Corporate Law",
+    "coverImage": "/images/blog-1.jpg",
+    "publishedDate": "July 10, 2026",
+    "readingTime": "8 min",
+    "url": "/blogs",
+    "featured": true
+  },
+  {
+    "id": "2",
+    "title": "Real Estate Regulation and Development Act (RERA): A Decade Later",
+    "excerpt": "Evaluating the impact of RERA on buyer protection and developer accountability in the Indian real estate sector.",
+    "category": "Property Law",
+    "coverImage": "/images/blog-2.jpg",
+    "publishedDate": "July 5, 2026",
+    "readingTime": "6 min",
+    "url": "/blogs"
+  },
+  {
+    "id": "3",
+    "title": "Recent Amendments in the Hindu Marriage Act",
+    "excerpt": "Understanding the procedural shifts and their impact on contested divorces and maintenance claims.",
+    "category": "Family Law",
+    "coverImage": "/images/blog-3.jpg",
+    "publishedDate": "June 28, 2026",
+    "readingTime": "5 min",
+    "url": "/blogs"
+  },
+  {
+    "id": "4",
+    "title": "Bail vs. Jail: Interpreting the Latest Supreme Court Precedents",
+    "excerpt": "An in-depth look at recent Supreme Court rulings reinforcing that bail is the rule and jail is the exception.",
+    "category": "Criminal Law",
+    "coverImage": "/images/blog-4.jpg",
+    "publishedDate": "June 20, 2026",
+    "readingTime": "7 min",
+    "url": "/blogs"
+  },
+  {
+    "id": "5",
+    "title": "The Evolution of GST Litigation: Key Takeaways from 2026",
+    "excerpt": "Navigating the complexities of recent Goods and Services Tax tribunals and landmark appellate decisions.",
+    "category": "Tax Law",
+    "coverImage": "/images/blog-5.jpg",
+    "publishedDate": "June 15, 2026",
+    "readingTime": "6 min",
+    "url": "/blogs"
+  },
+  {
+    "id": "6",
+    "title": "Remote Work and Employment Law: The Grey Areas",
+    "excerpt": "How the gig economy and remote working setups are challenging the traditional definitions of 'employee' under Indian labor laws.",
+    "category": "Employment Law",
+    "coverImage": "/images/blog-6.jpg",
+    "publishedDate": "June 8, 2026",
+    "readingTime": "4 min",
+    "url": "/blogs"
+  },
+  {
+    "id": "7",
+    "title": "Protecting Trade Secrets in the Age of AI",
+    "excerpt": "Best practices for Indian startups to safeguard their intellectual property against emerging technological threats.",
+    "category": "IP Law",
+    "coverImage": "/images/blog-7.jpg",
+    "publishedDate": "June 2, 2026",
+    "readingTime": "5 min",
+    "url": "/blogs"
+  }
+]
