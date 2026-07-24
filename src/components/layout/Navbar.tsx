@@ -32,7 +32,7 @@ export function Navbar() {
         )}
       >
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 w-full flex justify-between items-center h-full">
-          {/* Logo */}
+          {/* Logo — transparent PNG, no background */}
           <Link href="/" className="flex items-center h-full flex-shrink-0">
             <Image
               src="/images/logo.png"
@@ -73,6 +73,7 @@ export function Navbar() {
           {/* Desktop CTA */}
           <div className="hidden lg:block">
             <Button variant="primary" href="/contact" className="!rounded-lg px-6 gap-2 text-sm uppercase tracking-wider font-bold">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line></svg>
               Book Consultation
               <ArrowRight size={16} className="ml-1" />
             </Button>
